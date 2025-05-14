@@ -2,6 +2,11 @@
 # Brayden Fox
 # 05/14/25
 
+# This program sells a pre-defined limited number of cinema tickets, where each buyer can buy up to 4 tickets.
+# The maximum number of tickets available is 20. The program prompts the user for a desired number of tickets,
+# confirms the quantity, and displays the total remaining tickets after the sale. It repeats until all tickets are
+# sold, whereby it displays the total number of buyers.
+
 
 # main program
 def main():
